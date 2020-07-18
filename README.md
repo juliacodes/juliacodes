@@ -1,7 +1,7 @@
 # Hi there, I'm Julia 👋🏻
 I'm a Front End Developer studying at <strong>Purdue University</strong> as a Senior. I'm currently interning at <strong>IBM</strong> in their CIO department. I previously worked at Awkward, a product design agency in the Netherlands.
-<hr/>
-## Current Projects
+
+## Current Projects <br/>
 > ⭐️ [Splendor](https://github.com/juliajcodes/Splender) - I'm currently building a library of React components that are reusable and centered around my personal design style.
 
 > 🔥 [JuliaCodesGatsby](https://github.com/juliajcodes/JuliaCodesGatsby) - I'm rebuilding my portfolio to modernize and simplify the code structure with React and Gatsby.
