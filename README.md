@@ -8,7 +8,6 @@ I'm a Front End Developer studying at <strong>Purdue University</strong> as a Se
 
 > ✨ [Gitscape](https://github.com/juliajcodes/gitscape) - A web app to search & Find Github Projects to Contribute to
 
-<hr>
 
 
 ## My Values
@@ -16,13 +15,11 @@ I'm a Front End Developer studying at <strong>Purdue University</strong> as a Se
 🖤 Authentic Expression <br/>
 💡 Mindset of Learning & Curiosity <br/>
 🙌 Teamwork & Communication
-<hr/>
 
 ## Hobbies
 ☕️ Espresso Enthusiast <br/>
 🏃🏼‍♀️ Avid Runner </br>
 🧘🏼‍♀️ Yoga lover
-<hr/>
 
 ## Connect with Me
 - [Portfolio](https://www.juliacodes.com/) <br/>
