@@ -23,7 +23,7 @@ I'm a Front End Developer studying at <strong>Purdue University</strong> as a Se
 
 ## Connect with Me
 - [Portfolio](https://www.juliacodes.com/) <br/>
-- [Instagram](http://https://www.instagram.com/juliacodes/github.com) <br/>
+- [Instagram](http://https://www.instagram.com/juliacodes) <br/>
 - [Linkedin](https://www.linkedin.com/in/juliacodes/) <br/>
 - [Twitter](https://twitter.com/julia_codes) <br/>
 
