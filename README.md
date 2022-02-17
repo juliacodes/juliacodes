@@ -1,5 +1,5 @@
 # Hi there, I'm Julia 👋🏻
-I'm a Front End Developer studying at <strong>Purdue University</strong> as a Senior. I'm currently co-oping at IBM, where I will continue full time following my graduation. I previously worked at Awkward, a product design agency in the Netherlands.
+I'm a UX Engineer at IBM
 
 ## Current Projects <br/>
 > ⭐️ [Splendor](https://github.com/juliajcodes/Splender) - I'm currently building a library of React components that are reusable and centered around my personal design style.
