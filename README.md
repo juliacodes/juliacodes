@@ -18,7 +18,8 @@ I'm a UX Engineer at IBM
 
 ## Hobbies
 ☕️ Espresso Enthusiast <br/>
-🏃🏼‍♀️ Avid Runner </br>
+☁️ Cozy Gamer </br>
+🧗🏼 Rock Climber </br>
 🧘🏼‍♀️ Yoga lover
 
 ## Connect with Me
